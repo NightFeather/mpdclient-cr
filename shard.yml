@@ -1,0 +1,13 @@
+name: mpdclient-crystal
+version: 0.1.0
+
+authors:
+  - Nightfeather <ss900328@gmail.com>
+
+crystal: 0.25.0
+
+license: MIT
+
+targets:
+  mpdclient:
+    main: src/mpdclient.cr
